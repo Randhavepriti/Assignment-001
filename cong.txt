@@ -1,3 +1,9 @@
+<<<<<<< HEAD
  this is conflict file 
  a=3435
  b=565
+=======
+hi this is file 
+a=1
+b=2
+>>>>>>> 519c0b18b4ac8327086276131bca907803f1d0a0
